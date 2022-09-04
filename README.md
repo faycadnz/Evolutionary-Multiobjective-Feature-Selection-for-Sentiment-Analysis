@@ -13,7 +13,7 @@ The Jupyter Notebook file in this repository consists of the following results:
 
 ## Citation
 
-If you find this repository useful in your research, please cite the following paper:
+If you find this repository useful in your research, please cite the following [paper](https://ieeexplore.ieee.org/abstract/document/9564078):
 
 
 **APA format:**
